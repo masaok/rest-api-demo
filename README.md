@@ -4,6 +4,7 @@
 
 1. npm init
 1. npm install express
+1. npm install --save-dev babel-cli babel-preset-env babel-preset-stage-0
 
 ## Credit
 
