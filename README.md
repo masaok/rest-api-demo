@@ -22,6 +22,10 @@ npm start
 
 https://medium.com/@LindaVivah/the-beginners-guide-understanding-node-js-express-js-fundamentals-e15493462be1
 
-## Credit
+### Node and REST APIs
 
 https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express
+
+### Node and MySQL
+
+https://www.linkedin.com/learning/databases-for-node-js-developers/use-node-js-with-mysql
