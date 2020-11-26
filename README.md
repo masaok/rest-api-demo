@@ -12,16 +12,16 @@ npm start
 ```
 npm init
 
-# the actual API server to handle HTTP requests
+# Express is the API server to handle HTTP requests
 npm install express
 
 # Babel transpiles ES6
 npm install --save-dev babel-cli babel-preset-env babel-preset-stage-0
 
-# parse HTTP request incoming to the server
+# Parse HTTP request incoming to the server
 npm install body-parser
 
-# auto-restart the running server when a file changes
+# Auto-restart the running server when a file changes
 npm install nodemon
 
 npm start
